@@ -1,5 +1,4 @@
-### Hi there 👋
-我是机哥，高级PHP开发工程师，会python，懂点前端，一个三观很正的技术人。我的目标是成为一名合格的架构师。
+### 👋我是机哥，高级PHP开发工程师，会python，懂点前端，一个三观很正的技术人。我的目标是成为一名合格的架构师。
 
 <!--
 **9958/9958** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
